@@ -1,0 +1,1 @@
+choice = input('\t\t\t\t\t-> ').strip()
